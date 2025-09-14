@@ -57,7 +57,7 @@ Sistem Informasi ini dibuat untuk membantu instansi atau organisasi dalam:
    ```bash
    git clone https://github.com/RiaRinda/Aplikasi-Arsip-Surat-Desa-Karangduren-Berbasis-Website.git
    dir
-   cd 
+   cd Aplikasi-Arsip-Surat-Desa-Karangduren-Berbasis-Website
 6. **Copy file .env.example menjadi .env, lalu antur konfigurasi database:**
    ```bash
    DB_CONNECTION=mysql
