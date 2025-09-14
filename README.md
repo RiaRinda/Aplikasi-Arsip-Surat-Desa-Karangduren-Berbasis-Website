@@ -55,7 +55,7 @@ Sistem Informasi ini dibuat untuk membantu instansi atau organisasi dalam:
 4. **Buka Folder (untuk menyimpan project) -> jika sudah klik kanan pilih open terminal(cmd)**
 5. **Ketik Perintah**
    ```bash
-   git clone
+   git clone https://github.com/RiaRinda/Aplikasi-Arsip-Surat-Desa-Karangduren-Berbasis-Website.git
    dir
    cd 
 6. **Copy file .env.example menjadi .env, lalu antur konfigurasi database:**
