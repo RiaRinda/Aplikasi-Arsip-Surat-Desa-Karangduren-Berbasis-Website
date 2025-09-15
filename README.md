@@ -188,7 +188,7 @@ Akses dibrowser:http//localhost:8000
            <img width="1919" height="1018" alt="21  Pesan Error Saat Kategori Yang Sudah Ada" src="https://github.com/user-attachments/assets/486cef17-5d7e-4144-aeed-b08a0ecba819" />
        </p>
    
-13. **Halaman About**
+21. **Halaman About**
        <p align="center">
            <img width="1919" height="1013" alt="22  Halaman About" src="https://github.com/user-attachments/assets/6c0482a6-0664-47d2-a0f6-c4c37265795c" />
        </p>
